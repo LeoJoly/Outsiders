@@ -1,6 +1,6 @@
 # Outsiders
 
-Outsiders is a community plateforme that helps outdoor sports passionates to be connected to share trips and sport sessions.
+Outsiders is a community plateform that helps outdoor sports passionates to be connected to share trips and sport sessions.
 
 ## General informations
 
